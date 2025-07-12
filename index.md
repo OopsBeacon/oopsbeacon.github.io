@@ -1,7 +1,6 @@
 ---
-layout: single
-title: "OopsBeacon"
-author_profile: true
+layout: default
+title: OopsBeacon
 ---
 
 ## ./Whoami
