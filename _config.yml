@@ -1,5 +1,6 @@
 title: OopsBeacon
 theme: minima
+remote_theme: jekyll/minima@latest
 
 minima:
   skin: dark
