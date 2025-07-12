@@ -162,3 +162,10 @@ Finally, click save and you are ready to go . Now the generated payloads will co
 ## Conclusion 
 
 I have other ideas to share when it comes to making "Redirectors" . There are more versatile ways that are more evasive and can evade "NDRs" , and that would be preformed in actual red team engagements . If you are interested, just tell me and I will be more than happy to provide :D . 
+
+
+---
+
+## Contact
+
+If you want to reach me, feel free to hit me up on Telegram: [@rankiv](https://t.me/rankiv)
