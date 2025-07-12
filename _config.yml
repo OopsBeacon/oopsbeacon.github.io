@@ -1,5 +1,10 @@
 title: OopsBeacon
-remote_theme: jekyll/minima
+remote_theme: mmistakes/minimal-mistakes
 
-minima:
-  skin: dark
+plugins:
+  - jekyll-include-cache
+
+minimal_mistakes_skin: dark
+
+author:
+  name: "OopsBeacon"
