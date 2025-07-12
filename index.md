@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: OopsBeacon
+---
 
 ## ./Whoami
 
@@ -7,11 +10,11 @@ Hey everyone! My name is Abdullah. I’m here to keep improving — growing my s
 ![Oops Beacon GIF](./images/133753c4-e1c8-4b36-879c-bf5d436f78b8_text.gif)
 
 
-### But what is a "Redirector"?
+## But what is a "Redirector"?
 
 Generally, a redirector is used to move traffic from one machine or server to another machine (which, in our case, is our C2). So the redirector will take our "Beacon" traffic and forward it to the real C2 server.
 
-### Why Use a Redirector?
+## Why Use a Redirector?
 
 The main idea behind using a redirector is to hide your C2 server’s real IP address. For example, if you were conducting a red team engagement without a redirector and a firewall blocked your C2 IP, you’d be done for, and will not be able to continue the engagement. But if you had a redirector, it would hide the C2’s true IP, so the firewall would only block the redirector’s IP. In that case, you can just spin up a new redirector and stay operational.
 
